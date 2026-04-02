@@ -1,5 +1,5 @@
 # Plano de Testes – ParaBank
-
+Integrantes da equipe
 ## Nome do Sistema
 ParaBank
 
